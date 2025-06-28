@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Money Made Simple 💰",
+        "image": "/assets/money.jpg",
+        "author_image": "https://example.com/images/author1.jpg",
+        "description": "Financial security starts with the right knowledge. Smart saving, budgeting, and investment strategies pave the way for long-term stability and growth."
+    },
+    {
+        "title": "AI-Powered Productivity 🤖",
+        "image": "/assets/ai.jpg",
+        "author_image": "https://example.com/images/author2.jpg",
+        "description": "AI is reshaping the way work gets done. Leveraging the right tools can simplify tasks, enhance efficiency, and unlock new levels of productivity."
+    },
+    {
+        "title": "From Profile to Placement 🔗",
+        "image": "/assets/placement.jpg",
+        "author_image": "https://example.com/images/author3.jpg",
+        "description": "A compelling LinkedIn profile and well-crafted resume create strong professional impressions. The right approach increases visibility and attracts better career opportunities."
+    },
+    {
+        "title": "Personal Branding 🚀",
+        "image": "/assets/branding.avif",
+        "author_image": "https://example.com/images/author4.jpg",
+        "description": "A strong personal brand builds credibility and sets individuals apart in a competitive world. Authenticity and consistency play a key role in making a lasting impact."
+    }
+]
